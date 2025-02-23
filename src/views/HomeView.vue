@@ -3,22 +3,19 @@
     <v-app>
       <v-main>
         <v-container>
-          <v-btn @click="downloadAllImages" color="primary">
-            Descargar Todas las Imágenes
-          </v-btn>
           <v-list density="compact">
             <v-list-item
               v-for="(perk, index) in perks"
               :key="index"
+              :title="perk.name_en"
+              :subtitle="perk.surv"
             >
-            <v-list-item-avatar>
-              <a :href="perk.icon"><img :src="perk.icon_name" alt="icono" /></a>
-            </v-list-item-avatar>
-    
-            <v-list-item-content>
-              <v-list-item-title>{{ perk.name_en }}</v-list-item-title>
-              <v-list-item-subtitle>{{ perk.surv }}</v-list-item-subtitle>
-            </v-list-item-content>
+            <template v-slot:prepend>
+              <v-list-item-avatar>
+                <a :href="perk.icon" target="_blank"><img height="42px" :src="perk.icon_name" alt="icono" /></a>
+              </v-list-item-avatar>
+            </template>
+            <v-divider></v-divider>
           </v-list-item>
           </v-list>
         </v-container>
@@ -45,16 +42,4 @@ onMounted(() => {
     })
 })
 
-// Función para descargar todas las imágenes
-const downloadAllImages = () => {
-  perks.value.forEach((perk) => {
-    axios.get(perk.icon, {
-      responseType: 'blob'
-    }).then(response => {
-      console.log(response);
-    }).catch(error => {
-      console.error('Error al descargar la imagen:', error)
-    })
-  })
-}
 </script>
