@@ -4,13 +4,7 @@
       <v-main>
         <v-container>
           <table class="wikitable sortable jquery-tablesorter">
-
-            <thead><tr>
-            <th style="box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 8px 0px inset;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Icon</th>
-            <th style="box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 8px 0px inset;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name</th>
-            <th style="box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 8px 0px inset;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Description</th>
-            <th style="box-shadow: rgba(0, 0, 0, 0.8) 0px 0px 8px 0px inset;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Character
-            </th></tr></thead><tbody>
+            <tbody>
             <tr>
             <th><a href="https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png/revision/latest?cb=20161208214510" class="image" title="Ace in the Hole"><img alt="Ace in the Hole" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="96" height="96" data-image-name="IconPerks aceInTheHole.png" data-image-key="IconPerks_aceInTheHole.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png/revision/latest/scale-to-width-down/96?cb=20161208214510" class="lazyload"></a>
             </th>
@@ -2865,11 +2859,40 @@
 </template>
 
 <script lang="ts">
+import $ from 'jquery';
+import axios from 'axios';
+import { Perk } from '@/models/perk';
 import { defineComponent } from 'vue';
 
 export default defineComponent({
   name: 'HomeView',
   components: {
+  },
+  mounted() {
+    const rows = $('tr');
+
+    const perks: { perks: Perk[] } = {
+      perks: []
+    };
+    rows.each((index: number, elr: any) => {
+      const datos = $(elr).find('th');
+      const cellIcon = datos.get(0);
+      const icon_url = $(cellIcon!.innerHTML).find('img').attr('src');
+      
+      const cellName = datos.get(1);
+      const perk_name = $(cellName!.innerHTML).html();
+      
+      const cellSurv = datos.get(2);
+      const surv_name = $(cellSurv!.innerHTML).html();
+
+      const record = {
+        icon: icon_url!,
+        name_en: perk_name!,
+        surv: surv_name==='.'? 'All' : surv_name!
+      }
+      perks.perks.push(record);
+    });
+    console.log(perks);
   },
 });
 </script>

@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^1.7.9",
+    "jquery": "^3.7.1",
     "vue": "^3.2.13",
     "vue-loader": "^17.4.2",
     "vue-router": "^4.0.3",
@@ -14,6 +16,7 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
+    "@types/jquery": "^3.5.32",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-typescript": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
