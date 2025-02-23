@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "vue": "^3.2.13",
+    "vue-loader": "^17.4.2",
     "vue-router": "^4.0.3",
+    "vuetify": "^3.7.13",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
