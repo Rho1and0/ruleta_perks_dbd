@@ -12,7 +12,7 @@
               :key="index"
             >
             <v-list-item-avatar>
-              <img :src="perk.icon" alt="icono" />
+              <a :href="perk.icon"><img :src="perk.icon_name" alt="icono" /></a>
             </v-list-item-avatar>
     
             <v-list-item-content>

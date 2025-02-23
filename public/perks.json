@@ -1,746 +1,895 @@
 [
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png/revision/latest?cb=20161208214510",
+      "icon_name": "/images/survis-perks/IconPerks_aceInTheHole.webp",
       "name_en": "Ace in the Hole",
       "surv": "Ace"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_adrenaline.png/revision/latest?cb=20160605204801",
+      "icon_name": "/images/survis-perks/IconPerks_adrenaline.webp",
       "name_en": "Adrenaline",
       "surv": "Meg"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_aftercare.png/revision/latest?cb=20181128100931",
+      "icon_name": "/images/survis-perks/IconPerks_aftercare.webp",
       "name_en": "Aftercare",
       "surv": "Jeff"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/71/IconPerks_alert.png/revision/latest?cb=20170511153335",
+      "icon_name": "/images/survis-perks/IconPerks_alert.webp",
       "name_en": "Alert",
       "surv": "Feng"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_anyMeansNecessary.png/revision/latest?cb=20191126213542",
+      "icon_name": "/images/survis-perks/IconPerks_anyMeansNecessary.webp",
       "name_en": "Any Means Necessary",
       "surv": "Yui"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/IconPerks_appraisal.png/revision/latest?cb=20201112095004",
+      "icon_name": "/images/survis-perks/IconPerks_appraisal.webp",
       "name_en": "Appraisal",
       "surv": "Élodie"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/IconPerks_autodidact.png/revision/latest?cb=20180828173011",
+      "icon_name": "/images/survis-perks/IconPerks_autodidact.webp",
       "name_en": "Autodidact",
       "surv": "Adam"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_babysitter.png/revision/latest?cb=20190903174955",
+      "icon_name": "/images/survis-perks/IconPerks_babysitter.webp",
       "name_en": "Babysitter",
       "surv": "Steve"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/IconPerks_backgroundPlayer.png/revision/latest?cb=20230218135313",
+      "icon_name": "/images/survis-perks/IconPerks_backgroundPlayer.webp",
       "name_en": "Background Player",
       "surv": "Renato"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/IconPerks_balancedLanding.png/revision/latest?cb=20160821133918",
+      "icon_name": "/images/survis-perks/IconPerks_balancedLanding.webp",
       "name_en": "Balanced Landing",
       "surv": "Nea"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_bardicInspiration.png/revision/latest?cb=20240514174158",
+      "icon_name": "/images/survis-perks/IconPerks_bardicInspiration.webp",
       "name_en": "Bardic Inspiration",
       "surv": "Aestri"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_betterTogether.png/revision/latest?cb=20190903175013",
+      "icon_name": "/images/survis-perks/IconPerks_betterTogether.webp",
       "name_en": "Better Together",
       "surv": "Nancy"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_betterThanNew.png/revision/latest?cb=20220815051705",
+      "icon_name": "/images/survis-perks/IconPerks_betterThanNew.webp",
       "name_en": "Better than New",
       "surv": "Rebecca"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_biteTheBullet.png/revision/latest?cb=20210526102647",
+      "icon_name": "/images/survis-perks/IconPerks_biteTheBullet.webp",
       "name_en": "Bite the Bullet",
       "surv": "Leon"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_blastMine.png/revision/latest?cb=20210526102812",
+      "icon_name": "/images/survis-perks/IconPerks_blastMine.webp",
       "name_en": "Blast Mine",
       "surv": "Jill"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_bloodPact.png/revision/latest?cb=20200526201448",
+      "icon_name": "/images/survis-perks/IconPerks_bloodPact.webp",
       "name_en": "Blood Pact",
       "surv": "Cheryl"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/IconPerks_bloodRush.png/revision/latest?cb=20230218135314",
+      "icon_name": "/images/survis-perks/IconPerks_bloodRush.webp",
       "name_en": "Blood Rush",
       "surv": "Renato"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_boilOver.png/revision/latest?cb=20180529195012",
+      "icon_name": "/images/survis-perks/IconPerks_boilOver.webp",
       "name_en": "Boil Over",
       "surv": "Kate"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_bond.png/revision/latest?cb=20160605204830",
+      "icon_name": "/images/survis-perks/IconPerks_bond.webp",
       "name_en": "Bond",
       "surv": "Dwight"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/IconPerks_boonCircleOfHealing.png/revision/latest?cb=20210929054308",
+      "icon_name": "/images/survis-perks/IconPerks_boonCircleOfHealing.webp",
       "name_en": "Boon: Circle of Healing",
       "surv": "Mikaela"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_boonDarkTheory.png/revision/latest?cb=20220216115947",
+      "icon_name": "/images/survis-perks/IconPerks_boonDarkTheory.webp",
       "name_en": "Boon: Dark Theory",
       "surv": "Yoichi"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/IconPerks_boonExponential.png/revision/latest?cb=20211109175033",
+      "icon_name": "/images/survis-perks/IconPerks_boonExponential.webp",
       "name_en": "Boon: Exponential",
       "surv": "Jonah"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/IconPerks_boonIllumination.png/revision/latest?cb=20240109231534",
+      "icon_name": "/images/survis-perks/IconPerks_boonIllumination.webp",
       "name_en": "Boon: Illumination",
       "surv": "Alan"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_boonShadowStep.png/revision/latest?cb=20210929054304",
+      "icon_name": "/images/survis-perks/IconPerks_boonShadowStep.webp",
       "name_en": "Boon: Shadow Step",
       "surv": "Mikaela"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_borrowedTime.png/revision/latest?cb=20170308184730",
+      "icon_name": "/images/survis-perks/IconPerks_borrowedTime.webp",
       "name_en": "Borrowed Time",
       "surv": "Bill"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/IconPerks_botanyKnowledge.png/revision/latest?cb=20160605204836",
+      "icon_name": "/images/survis-perks/IconPerks_botanyKnowledge.webp",
       "name_en": "Botany Knowledge",
       "surv": "Claudette"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_breakdown.png/revision/latest?cb=20181128100926",
+      "icon_name": "/images/survis-perks/IconPerks_breakdown.webp",
       "name_en": "Breakdown",
       "surv": "Jeff"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_breakout.png/revision/latest?cb=20191126213552",
+      "icon_name": "/images/survis-perks/IconPerks_breakout.webp",
       "name_en": "Breakout",
       "surv": "Yui"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/IconPerks_buckleUp.png/revision/latest?cb=20190402180455",
+      "icon_name": "/images/survis-perks/IconPerks_buckleUp.webp",
       "name_en": "Buckle Up",
       "surv": "Ash"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_builtToLast.png/revision/latest?cb=20200819114105",
+      "icon_name": "/images/survis-perks/IconPerks_builtToLast.webp",
       "name_en": "Built to Last",
       "surv": "Felix"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_calmSpirit.png/revision/latest?cb=20160605204847",
+      "icon_name": "/images/survis-perks/IconPerks_calmSpirit.webp",
       "name_en": "Calm Spirit",
       "surv": "Jake"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_camaraderie.png/revision/latest?cb=20190903175027",
+      "icon_name": "/images/survis-perks/IconPerks_camaraderie.webp",
       "name_en": "Camaraderie",
       "surv": "Steve"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_championOfLight.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_championOfLight.png/revision/latest?cb=20240109231532",
+      "icon_name": "/images/survis-perks/IconPerks_championOfLight.webp",
       "name_en": "Champion of Light",
       "surv": "Alan"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_chemicalTrap.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_chemicalTrap.png/revision/latest?cb=20230808160213",
+      "icon_name": "/images/survis-perks/IconPerks_chemicalTrap.webp",
       "name_en": "Chemical Trap",
       "surv": "Ellen"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_clairvoyance.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_clairvoyance.png/revision/latest?cb=20210929054440",
+      "icon_name": "/images/survis-perks/IconPerks_clairvoyance.webp",
       "name_en": "Clairvoyance",
       "surv": "Mikaela"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_cleanBreak.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/IconPerks_cleanBreak.png/revision/latest?cb=20241107202155",
+      "icon_name": "/images/survis-perks/IconPerks_cleanBreak.webp",
       "name_en": "Clean Break",
       "surv": "Taurie"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_correctiveAction.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_correctiveAction.png/revision/latest?cb=20240918105401",
+      "icon_name": "/images/survis-perks/IconPerks_correctiveAction.webp",
       "name_en": "Corrective Action",
       "surv": "Jonah"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_counterforce.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconPerks_counterforce.png/revision/latest?cb=20210526103441",
+      "icon_name": "/images/survis-perks/IconPerks_counterforce.webp",
       "name_en": "Counterforce",
       "surv": "Jill"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_cutLoose.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_cutLoose.png/revision/latest?cb=20230218135315",
+      "icon_name": "/images/survis-perks/IconPerks_cutLoose.webp",
       "name_en": "Cut Loose",
       "surv": "Thalita"
   },
   {
-      "icon": "/1/17/IconPerks_danceWithMe.webp20180529195003",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_danceWithMe.png/revision/latest?cb=20180529195003",
+      "icon_name": "/images/survis-perks/IconPerks_danceWithMe.webp",
       "name_en": "Dance With Me",
       "surv": "Kate"
   },
   {
-      "icon": "/9/92/IconPerks_darkSense.webp20160605204853",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/IconPerks_darkSense.png/revision/latest?cb=20160605204853",
+      "icon_name": "/images/survis-perks/IconPerks_darkSense.webp",
       "name_en": "Dark Sense",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_deadHard.png/revision/latest?cb=20170727160956",
+      "icon_name": "/images/survis-perks/IconPerks_deadHard.webp",
       "name_en": "Dead Hard",
       "surv": "David"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_deadline.png/revision/latest?cb=20240109231533",
+      "icon_name": "/images/survis-perks/IconPerks_deadline.webp",
       "name_en": "Deadline",
       "surv": "Alan"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_deception.png/revision/latest?cb=20201112095028",
+      "icon_name": "/images/survis-perks/IconPerks_deception.webp",
       "name_en": "Deception",
       "surv": "Élodie"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_decisiveStrike.png/revision/latest?cb=20161023112852",
+      "icon_name": "/images/survis-perks/IconPerks_decisiveStrike.webp",
       "name_en": "Decisive Strike",
       "surv": "Laurie"
   },
   {
-      "icon": "/8/89/IconPerks_dejaVu.webp20160605204905",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/IconPerks_dejaVu.png/revision/latest?cb=20160605204905",
+      "icon_name": "/images/survis-perks/IconPerks_dejaVu.webp",
       "name_en": "Déjà Vu",
       "surv": "All"
   },
   {
-      "icon": "/7/7e/IconPerks_deliverance.webp20180828173004",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_deliverance.png/revision/latest?cb=20180828173004",
+      "icon_name": "/images/survis-perks/IconPerks_deliverance.webp",
       "name_en": "Deliverance",
       "surv": "Adam"
   },
   {
-      "icon": "/8/84/IconPerks_desperateMeasures.webp20200819113949",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/IconPerks_desperateMeasures.png/revision/latest?cb=20200819113949",
+      "icon_name": "/images/survis-perks/IconPerks_desperateMeasures.webp",
       "name_en": "Desperate Measures",
       "surv": "Felix"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/IconPerks_detectivesHunch.png/revision/latest?cb=20180123224231",
+      "icon_name": "/images/survis-perks/IconPerks_detectivesHunch.webp",
       "name_en": "Detective's Hunch",
       "surv": "David"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/IconPerks_distortion.png/revision/latest?cb=20181128100914",
+      "icon_name": "/images/survis-perks/IconPerks_distortion.webp",
       "name_en": "Distortion",
       "surv": "Jeff"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_diversion.png/revision/latest?cb=20180828172956",
+      "icon_name": "/images/survis-perks/IconPerks_diversion.webp",
       "name_en": "Diversion",
       "surv": "Adam"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/IconPerks_dramaturgy.png/revision/latest?cb=20230705160003",
+      "icon_name": "/images/survis-perks/IconPerks_dramaturgy.webp",
       "name_en": "Dramaturgy",
       "surv": "Nicolas"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_empathicConnection.png/revision/latest?cb=20220216115951",
+      "icon_name": "/images/survis-perks/IconPerks_empathicConnection.webp",
       "name_en": "Empathic Connection",
       "surv": "Yoichi"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_empathy.png/revision/latest?cb=20160605204916",
+      "icon_name": "/images/survis-perks/IconPerks_empathy.webp",
       "name_en": "Empathy",
       "surv": "Claudette"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/IconPerks_Exultation.png/revision/latest?cb=20240806171416",
+      "icon_name": "/images/survis-perks/IconPerks_Exultation.webp",
       "name_en": "Exultation",
       "surv": "Trevor"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/IconPerks_EyesOfBelmont.png/revision/latest?cb=20240806171417",
+      "icon_name": "/images/survis-perks/IconPerks_EyesOfBelmont.webp",
       "name_en": "Eyes of Belmont",
       "surv": "Trevor"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_fastTrack.png/revision/latest?cb=20210302172243",
+      "icon_name": "/images/survis-perks/IconPerks_fastTrack.webp",
       "name_en": "Fast Track",
       "surv": "Yun-Jin"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fc/IconPerks_finesse.png/revision/latest?cb=20240625161544",
+      "icon_name": "/images/survis-perks/IconPerks_finesse.webp",
       "name_en": "Finesse",
       "surv": "Lara"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_fixated.png/revision/latest?cb=20190903175127",
+      "icon_name": "/images/survis-perks/IconPerks_fixated.webp",
       "name_en": "Fixated",
       "surv": "Nancy"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_flashbang.png/revision/latest?cb=20210526102947",
+      "icon_name": "/images/survis-perks/IconPerks_flashbang.webp",
       "name_en": "Flashbang",
       "surv": "Leon"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_flip-Flop.png/revision/latest?cb=20190402180450",
+      "icon_name": "/images/survis-perks/IconPerks_flip-Flop.webp",
       "name_en": "Flip-Flop",
       "surv": "Ash"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png/revision/latest?cb=20221102143122",
+      "icon_name": "/images/survis-perks/IconPerks_fogwise.webp",
       "name_en": "Fogwise",
       "surv": "Vittorio"
   },
   {
-      "icon": "/3/31/IconPerks_forThePeople.webp20200218172919",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_forThePeople.png/revision/latest?cb=20200218172919",
+      "icon_name": "/images/survis-perks/IconPerks_forThePeople.webp",
       "name_en": "For the People",
       "surv": "Zarina"
   },
   {
-      "icon": "/4/4c/IconPerks_friendlyCompetition.webp20230218135316",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_friendlyCompetition.png/revision/latest?cb=20230218135316",
+      "icon_name": "/images/survis-perks/IconPerks_friendlyCompetition.webp",
       "name_en": "Friendly Competition",
       "surv": "Thalita"
   },
   {
-      "icon": "/f/fe/IconPerks_hardened.webp20240625161545",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_hardened.png/revision/latest?cb=20240625161545",
+      "icon_name": "/images/survis-perks/IconPerks_hardened.webp",
       "name_en": "Hardened",
       "surv": "Lara"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/IconPerks_headOn.png/revision/latest?cb=20190308175420",
+      "icon_name": "/images/survis-perks/IconPerks_headOn.webp",
       "name_en": "Head On",
       "surv": "Jane"
   },
   {
-      "icon": "/1/18/IconPerks_hope.webp20160605204928",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_hope.png/revision/latest?cb=20160605204928",
+      "icon_name": "/images/survis-perks/IconPerks_hope.webp",
       "name_en": "Hope",
       "surv": "All"
   },
   {
-      "icon": "/5/5d/IconPerks_hyperfocus.webp20220815051721",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png/revision/latest?cb=20220815051721",
+      "icon_name": "/images/survis-perks/IconPerks_hyperfocus.webp",
       "name_en": "Hyperfocus",
       "surv": "Rebecca"
   },
   {
-      "icon": "/7/7e/IconPerks_innerFocus.webp20220518112819",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_innerFocus.png/revision/latest?cb=20220518112819",
+      "icon_name": "/images/survis-perks/IconPerks_innerFocus.webp",
       "name_en": "Inner Focus",
       "surv": "Haddie"
   },
   {
-      "icon": "/4/47/IconPerks_innerStrength.webp20190903175147",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/IconPerks_innerStrength.png/revision/latest?cb=20190903175147",
+      "icon_name": "/images/survis-perks/IconPerks_innerStrength.webp",
       "name_en": "Inner Strength",
       "surv": "Nancy"
   },
   {
-      "icon": "/a/a8/IconPerks_invocationTreacherousCrows.webp20241107202156",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_invocationTreacherousCrows.png/revision/latest?cb=20241107202156",
+      "icon_name": "/images/survis-perks/IconPerks_invocationTreacherousCrows.webp",
       "name_en": "Invocation: Treacherous Crows",
       "surv": "Taurie"
   },
   {
-      "icon": "/0/07/IconPerks_invocationWeavingSpiders.webp20240220182529",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_invocationWeavingSpiders.png/revision/latest?cb=20240220182529",
+      "icon_name": "/images/survis-perks/IconPerks_invocationWeavingSpiders.webp",
       "name_en": "Invocation: Weaving Spiders",
       "surv": "Sable"
   },
   {
-      "icon": "/5/58/IconPerks_ironWill.webp20160605204945",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_ironWill.png/revision/latest?cb=20160605204945",
+      "icon_name": "/images/survis-perks/IconPerks_ironWill.webp",
       "name_en": "Iron Will",
       "surv": "Jake"
   },
   {
-      "icon": "/a/a8/IconPerks_kindred.webp20160819130530",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_kindred.png/revision/latest?cb=20160819130530",
+      "icon_name": "/images/survis-perks/IconPerks_kindred.webp",
       "name_en": "Kindred",
       "surv": "All"
   },
   {
-      "icon": "/3/3d/IconPerks_leader.webp20160605204957",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_leader.png/revision/latest?cb=20160605204957",
+      "icon_name": "/images/survis-perks/IconPerks_leader.webp",
       "name_en": "Leader",
       "surv": "Dwight"
   },
   {
-      "icon": "/c/c3/IconPerks_leftBehind.webp20170308184910",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_leftBehind.png/revision/latest?cb=20170308184910",
+      "icon_name": "/images/survis-perks/IconPerks_leftBehind.webp",
       "name_en": "Left Behind",
       "surv": "Bill"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/IconPerks_light-Footed.png/revision/latest?cb=20230808160213",
+      "icon_name": "/images/survis-perks/IconPerks_light-Footed.webp",
       "name_en": "Light-Footed",
       "surv": "Ellen"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/IconPerks_lightweight.png/revision/latest?cb=20160605205008",
+      "icon_name": "/images/survis-perks/IconPerks_lightweight.webp",
       "name_en": "Lightweight",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/IconPerks_lithe.png/revision/latest?cb=20170511153301",
+      "icon_name": "/images/survis-perks/IconPerks_lithe.webp",
       "name_en": "Lithe",
       "surv": "Feng"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png/revision/latest?cb=20220815051740",
+      "icon_name": "/images/survis-perks/IconPerks_lowProfile.webp",
       "name_en": "Low Profile",
       "surv": "Ada"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/IconPerks_luckyBreak.png/revision/latest?cb=20191126213558",
+      "icon_name": "/images/survis-perks/IconPerks_luckyBreak.webp",
       "name_en": "Lucky Break",
       "surv": "Yui"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/IconPerks_luckyStar.png/revision/latest?cb=20230808160212",
+      "icon_name": "/images/survis-perks/IconPerks_luckyStar.webp",
       "name_en": "Lucky Star",
       "surv": "Ellen"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/IconPerks_madeForThis.png/revision/latest?cb=20230524205724",
+      "icon_name": "/images/survis-perks/IconPerks_madeForThis.webp",
       "name_en": "Made for This",
       "surv": "Gabriel"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png/revision/latest?cb=20190402180459",
+      "icon_name": "/images/survis-perks/IconPerks_mettleOfMan.webp",
       "name_en": "Mettle of Man",
       "surv": "Ash"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_mirroredIllusion.png/revision/latest?cb=20240514174203",
+      "icon_name": "/images/survis-perks/IconPerks_mirroredIllusion.webp",
       "name_en": "Mirrored Illusion",
       "surv": "Aestri"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/98/IconPerks_MomentOfGlory.png/revision/latest?cb=20240806171421",
+      "icon_name": "/images/survis-perks/IconPerks_MomentOfGlory.webp",
       "name_en": "Moment of Glory",
       "surv": "Trevor"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_noMither.png/revision/latest?cb=20170727161003",
+      "icon_name": "/images/survis-perks/IconPerks_noMither.webp",
       "name_en": "No Mither",
       "surv": "David"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_noOneLeftBehind.png/revision/latest?cb=20160605205026",
+      "icon_name": "/images/survis-perks/IconPerks_noOneLeftBehind.webp",
       "name_en": "No One Left Behind",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_objectOfObsession.png/revision/latest?cb=20161023112952",
+      "icon_name": "/images/survis-perks/IconPerks_objectOfObsession.webp",
       "name_en": "Object of Obsession",
       "surv": "Laurie"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_offTheRecord.png/revision/latest?cb=20200218172747",
+      "icon_name": "/images/survis-perks/IconPerks_offTheRecord.webp",
       "name_en": "Off the Record",
       "surv": "Zarina"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_open-Handed.png/revision/latest?cb=20161210091243",
+      "icon_name": "/images/survis-perks/IconPerks_open-Handed.webp",
       "name_en": "Open-Handed",
       "surv": "Ace"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_overcome.png/revision/latest?cb=20211109180747",
+      "icon_name": "/images/survis-perks/IconPerks_overcome.webp",
       "name_en": "Overcome",
       "surv": "Jonah"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png/revision/latest?cb=20220518112819",
+      "icon_name": "/images/survis-perks/IconPerks_overzealous.webp",
       "name_en": "Overzealous",
       "surv": "Haddie"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_parentalGuidance.png/revision/latest?cb=20220216120019",
+      "icon_name": "/images/survis-perks/IconPerks_parentalGuidance.webp",
       "name_en": "Parental Guidance",
       "surv": "Yoichi"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_pharmacy.png/revision/latest?cb=20171026230450",
+      "icon_name": "/images/survis-perks/IconPerks_pharmacy.webp",
       "name_en": "Pharmacy",
       "surv": "Quentin"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_plotTwist.png/revision/latest?cb=20230705160003",
+      "icon_name": "/images/survis-perks/IconPerks_plotTwist.webp",
       "name_en": "Plot Twist",
       "surv": "Nicolas"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/IconPerks_plunderersInstinct.png/revision/latest?cb=20160605205031",
+      "icon_name": "/images/survis-perks/IconPerks_plunderersInstinct.webp",
       "name_en": "Plunderer's Instinct",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_poised.png/revision/latest?cb=20190308175429",
+      "icon_name": "/images/survis-perks/IconPerks_poised.webp",
       "name_en": "Poised",
       "surv": "Jane"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_potentialEnergy.png/revision/latest?cb=20221102143127",
+      "icon_name": "/images/survis-perks/IconPerks_potentialEnergy.webp",
       "name_en": "Potential Energy",
       "surv": "Vittorio"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IconPerks_powerStruggle.png/revision/latest?cb=20201112095050",
+      "icon_name": "/images/survis-perks/IconPerks_powerStruggle.webp",
       "name_en": "Power Struggle",
       "surv": "Élodie"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/IconPerks_premonition.png/revision/latest?cb=20160605205043",
+      "icon_name": "/images/survis-perks/IconPerks_premonition.webp",
       "name_en": "Premonition",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_proveThyself.png/revision/latest?cb=20160605205049",
+      "icon_name": "/images/survis-perks/IconPerks_proveThyself.webp",
       "name_en": "Prove Thyself",
       "surv": "Dwight"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_quickAndQuiet.png/revision/latest?cb=20160605205055",
+      "icon_name": "/images/survis-perks/IconPerks_quickAndQuiet.webp",
       "name_en": "Quick &amp; Quiet",
       "surv": "Meg"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png/revision/latest?cb=20221102143123",
+      "icon_name": "/images/survis-perks/IconPerks_quickGambit.webp",
       "name_en": "Quick Gambit",
       "surv": "Vittorio"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_reactiveHealing.png/revision/latest?cb=20220815051757",
+      "icon_name": "/images/survis-perks/IconPerks_reactiveHealing.webp",
       "name_en": "Reactive Healing",
       "surv": "Ada"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/IconPerks_reassurance.png/revision/latest?cb=20220815051841",
+      "icon_name": "/images/survis-perks/IconPerks_reassurance.webp",
       "name_en": "Reassurance",
       "surv": "Rebecca"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_redHerring.png/revision/latest?cb=20200218172728",
+      "icon_name": "/images/survis-perks/IconPerks_redHerring.webp",
       "name_en": "Red Herring",
       "surv": "Zarina"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_repressedAlliance.png/revision/latest?cb=20200526201745",
+      "icon_name": "/images/survis-perks/IconPerks_repressedAlliance.webp",
       "name_en": "Repressed Alliance",
       "surv": "Cheryl"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_residualManifest.png/revision/latest?cb=20220518112819",
+      "icon_name": "/images/survis-perks/IconPerks_residualManifest.webp",
       "name_en": "Residual Manifest",
       "surv": "Haddie"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_resilience.png/revision/latest?cb=20160605205100",
+      "icon_name": "/images/survis-perks/IconPerks_resilience.webp",
       "name_en": "Resilience",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/IconPerks_resurgence.png/revision/latest?cb=20210526103300",
+      "icon_name": "/images/survis-perks/IconPerks_resurgence.webp",
       "name_en": "Resurgence",
       "surv": "Jill"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/IconPerks_rookieSpirit.png/revision/latest?cb=20210526103548",
+      "icon_name": "/images/survis-perks/IconPerks_rookieSpirit.webp",
       "name_en": "Rookie Spirit",
       "surv": "Leon"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/IconPerks_saboteur.png/revision/latest?cb=20200220105714",
+      "icon_name": "/images/survis-perks/IconPerks_saboteur.webp",
       "name_en": "Saboteur",
       "surv": "Jake"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_scavenger.png/revision/latest?cb=20230524205539",
+      "icon_name": "/images/survis-perks/IconPerks_scavenger.webp",
       "name_en": "Scavenger",
       "surv": "Gabriel"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/IconPerks_scenePartner.png/revision/latest?cb=20230705160003",
+      "icon_name": "/images/survis-perks/IconPerks_scenePartner.webp",
       "name_en": "Scene Partner",
       "surv": "Nicolas"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_secondWind.png/revision/latest?cb=20190903175238",
+      "icon_name": "/images/survis-perks/IconPerks_secondWind.webp",
       "name_en": "Second Wind",
       "surv": "Steve"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_self-Care.png/revision/latest?cb=20160605205112",
+      "icon_name": "/images/survis-perks/IconPerks_self-Care.webp",
       "name_en": "Self-Care",
       "surv": "Claudette"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_self-Preservation.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/IconPerks_self-Preservation.png/revision/latest?cb=20210302172351",
+      "icon_name": "/images/survis-perks/IconPerks_self-Preservation.webp",
       "name_en": "Self-Preservation",
       "surv": "Yun-Jin"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_shoulderTheBurden.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPerks_shoulderTheBurden.png/revision/latest?cb=20241107202157",
+      "icon_name": "/images/survis-perks/IconPerks_shoulderTheBurden.webp",
       "name_en": "Shoulder the Burden",
       "surv": "Taurie"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_slipperyMeat.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/IconPerks_slipperyMeat.png/revision/latest?cb=20201105152240",
+      "icon_name": "/images/survis-perks/IconPerks_slipperyMeat.webp",
       "name_en": "Slippery Meat",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_smallGame.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/IconPerks_smallGame.png/revision/latest?cb=20210414100522",
+      "icon_name": "/images/survis-perks/IconPerks_smallGame.webp",
       "name_en": "Small Game",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_smashHit.png/revision/latest?cb=20210302172407",
+      "icon_name": "/images/survis-perks/IconPerks_smashHit.webp",
       "name_en": "Smash Hit",
       "surv": "Yun-Jin"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_soleSurvivor.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/IconPerks_soleSurvivor.png/revision/latest?cb=20161023113045",
+      "icon_name": "/images/survis-perks/IconPerks_soleSurvivor.webp",
       "name_en": "Sole Survivor",
       "surv": "Laurie"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_solidarity.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_solidarity.png/revision/latest?cb=20190308175435",
+      "icon_name": "/images/survis-perks/IconPerks_solidarity.webp",
       "name_en": "Solidarity",
       "surv": "Jane"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_soulGuard.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_soulGuard.png/revision/latest?cb=20200526201807",
+      "icon_name": "/images/survis-perks/IconPerks_soulGuard.webp",
       "name_en": "Soul Guard",
       "surv": "Cheryl"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_specialist.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_specialist.png/revision/latest?cb=20240625161548",
+      "icon_name": "/images/survis-perks/IconPerks_specialist.webp",
       "name_en": "Specialist",
       "surv": "Lara"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_spineChill.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_spineChill.png/revision/latest?cb=20160605205147",
+      "icon_name": "/images/survis-perks/IconPerks_spineChill.webp",
       "name_en": "Spine Chill",
       "surv": "All"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_sprintBurst.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/IconPerks_sprintBurst.png/revision/latest?cb=20160605205153",
+      "icon_name": "/images/survis-perks/IconPerks_sprintBurst.webp",
       "name_en": "Sprint Burst",
       "surv": "Meg"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_stakeOut.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/IconPerks_stakeOut.png/revision/latest?cb=20180123224338",
+      "icon_name": "/images/survis-perks/IconPerks_stakeOut.webp",
       "name_en": "Stake Out",
       "surv": "David"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_stillSight.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b6/IconPerks_stillSight.png/revision/latest?cb=20240514174204",
+      "icon_name": "/images/survis-perks/IconPerks_stillSight.webp",
       "name_en": "Still Sight",
       "surv": "Aestri"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_streetwise.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_streetwise.png/revision/latest?cb=20160821134155",
+      "icon_name": "/images/survis-perks/IconPerks_streetwise.webp",
       "name_en": "Streetwise",
       "surv": "Nea"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_strengthInShadows.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/IconPerks_strengthInShadows.png/revision/latest?cb=20240220182529",
+      "icon_name": "/images/survis-perks/IconPerks_strengthInShadows.webp",
       "name_en": "Strength in Shadows",
       "surv": "Sable"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_teamworkCollectiveStealth.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_teamworkCollectiveStealth.png/revision/latest?cb=20230218135318",
+      "icon_name": "/images/survis-perks/IconPerks_teamworkCollectiveStealth.webp",
       "name_en": "Teamwork: Collective Stealth",
       "surv": "Renato"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_teamworkPowerOfTwo.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_teamworkPowerOfTwo.png/revision/latest?cb=20230218135319",
+      "icon_name": "/images/survis-perks/IconPerks_teamworkPowerOfTwo.webp",
       "name_en": "Teamwork: Power of Two",
       "surv": "Thalita"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_technician.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_technician.png/revision/latest?cb=20170511153221",
+      "icon_name": "/images/survis-perks/IconPerks_technician.webp",
       "name_en": "Technician",
       "surv": "Feng"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_tenacity.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/IconPerks_tenacity.png/revision/latest?cb=20180123224404",
+      "icon_name": "/images/survis-perks/IconPerks_tenacity.webp",
       "name_en": "Tenacity",
       "surv": "David"
   },
   {
-      "icon": "/images/survis_perks/IconPerks_thisIsNotHappening.webp",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_thisIsNotHappening.png/revision/latest?cb=20160605205158",
+      "icon_name": "/images/survis-perks/IconPerks_thisIsNotHappening.webp",
       "name_en": "This Is Not Happening",
       "surv": "All"
   },
   {
-      "icon": "/0/0d/IconPerks_troubleshooter.webp20230524205359",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_troubleshooter.png/revision/latest?cb=20230524205359",
+      "icon_name": "/images/survis-perks/IconPerks_troubleshooter.webp",
       "name_en": "Troubleshooter",
       "surv": "Gabriel"
   },
   {
-      "icon": "/4/4a/IconPerks_unbreakable.webp20170308184922",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_unbreakable.png/revision/latest?cb=20170308184922",
+      "icon_name": "/images/survis-perks/IconPerks_unbreakable.webp",
       "name_en": "Unbreakable",
       "surv": "Bill"
   },
   {
-      "icon": "/a/a3/IconPerks_upTheAnte.webp20161210091356",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_upTheAnte.png/revision/latest?cb=20161210091356",
+      "icon_name": "/images/survis-perks/IconPerks_upTheAnte.webp",
       "name_en": "Up the Ante",
       "surv": "Ace"
   },
   {
-      "icon": "/c/c7/IconPerks_urbanEvasion.webp20160821134257",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_urbanEvasion.png/revision/latest?cb=20160821134257",
+      "icon_name": "/images/survis-perks/IconPerks_urbanEvasion.webp",
       "name_en": "Urban Evasion",
       "surv": "Nea"
   },
   {
-      "icon": "/4/46/IconPerks_vigil.webp20171026230511",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_vigil.png/revision/latest?cb=20171026230511",
+      "icon_name": "/images/survis-perks/IconPerks_vigil.webp",
       "name_en": "Vigil",
       "surv": "Quentin"
   },
   {
-      "icon": "/7/7c/IconPerks_visionary.webp20200819113857",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_visionary.png/revision/latest?cb=20200819113857",
+      "icon_name": "/images/survis-perks/IconPerks_visionary.webp",
       "name_en": "Visionary",
       "surv": "Felix"
   },
   {
-      "icon": "/f/fd/IconPerks_wakeUp.webp20171026230520",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_wakeUp.png/revision/latest?cb=20171026230520",
+      "icon_name": "/images/survis-perks/IconPerks_wakeUp.webp",
       "name_en": "Wake Up!",
       "surv": "Quentin"
   },
   {
-      "icon": "/8/8a/IconPerks_wellMakeIt.webp20160605205228",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_wellMakeIt.png/revision/latest?cb=20160605205228",
+      "icon_name": "/images/survis-perks/IconPerks_wellMakeIt.webp",
       "name_en": "We'll Make It",
       "surv": "All"
   },
   {
-      "icon": "/b/b8/IconPerks_wereGonnaLiveForever.webp20170727160948",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_wereGonnaLiveForever.png/revision/latest?cb=20170727160948",
+      "icon_name": "/images/survis-perks/IconPerks_wereGonnaLiveForever.webp",
       "name_en": "We're Gonna Live Forever",
       "surv": "David"
   },
   {
-      "icon": "/8/8f/IconPerks_wicked.webp20240220182530",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/IconPerks_wicked.png/revision/latest?cb=20240220182530",
+      "icon_name": "/images/survis-perks/IconPerks_wicked.webp",
       "name_en": "Wicked",
       "surv": "Sable"
   },
   {
-      "icon": "/1/17/IconPerks_windowsOfOpportunity.webp20180529195008",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_windowsOfOpportunity.png/revision/latest?cb=20180529195008",
+      "icon_name": "/images/survis-perks/IconPerks_windowsOfOpportunity.webp",
       "name_en": "Windows of Opportunity",
       "surv": "Kate"
   },
   {
-      "icon": "/2/23/IconPerks_wiretap.webp20220815051906",
+      "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_wiretap.png/revision/latest?cb=20220815051906",
+      "icon_name": "/images/survis-perks/IconPerks_wiretap.webp",
       "name_en": "Wiretap",
       "surv": "Ada"
   }
