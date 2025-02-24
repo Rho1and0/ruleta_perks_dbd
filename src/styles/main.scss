@@ -1,0 +1,23 @@
+.perk-wrapper {
+  background: url('../assets/images/perks-brown.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 112px;
+  height: 112px;
+  padding: 5px;
+}
+
+.perk-img-result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .v-img {
+    background: url('../assets/images/perks-purple.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 106%;
+    margin-bottom: 20px;
+  }
+}
