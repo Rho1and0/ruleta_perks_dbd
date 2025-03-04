@@ -3,15 +3,37 @@
     <v-app>
       <v-main>
         <v-container>
-          <Carousel ref="myCarousel" v-bind="carouselConfig" v-model="positions[2]">
+          <Carousel ref="perk1" v-bind="carouselConfig" v-model="positions[0]">
             <Slide v-for="(slide, idx) in perks" :key="idx">
               <div class="perk-wrapper">
                 <img width="100px" height="100px" :src="slide.icon_name">
               </div>
             </Slide>
           </Carousel>
-          <v-btn @mousedown="turnround" @mouseup="stopTurnround" @mouseleave="stopTurnround">SPIN</v-btn>
-          <p>{{positions[2]}}</p>
+          <Carousel ref="perk2" v-bind="carouselConfig" v-model="positions[1]">
+            <Slide v-for="(slide, idx) in perks" :key="idx">
+              <div class="perk-wrapper">
+                <img width="100px" height="100px" :src="slide.icon_name">
+              </div>
+            </Slide>
+          </Carousel>
+          <Carousel ref="perk3" v-bind="carouselConfig" v-model="positions[2]">
+            <Slide v-for="(slide, idx) in perks" :key="idx">
+              <div class="perk-wrapper">
+                <img width="100px" height="100px" :src="slide.icon_name">
+              </div>
+            </Slide>
+          </Carousel>
+          <Carousel ref="perk4" v-bind="carouselConfig" v-model="positions[3]">
+            <Slide v-for="(slide, idx) in perks" :key="idx">
+              <div class="perk-wrapper">
+                <img width="100px" height="100px" :src="slide.icon_name">
+              </div>
+            </Slide>
+          </Carousel>
+          <v-row justify-center>
+            <v-btn @mousedown="turnround" @mouseup="stopTurnround" @mouseleave="stopTurnround">SPIN</v-btn>
+          </v-row>
         </v-container>
       </v-main>
       <v-dialog transition="dialog-top-transition" v-model="showResult">
