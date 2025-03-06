@@ -1,11 +1,16 @@
-.perk-wrapper {
-  background: url('../assets/images/perks-brown.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  width: 112px;
-  height: 112px;
-  padding: 5px;
+.perks-wrapper {
+  margin: 5px 10px;
+  border: 1px solid rgb(55, 55, 55);
+
+  .perk-wrapper {
+    background: url('../assets/images/perks-brown.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 112px;
+    height: 112px;
+    padding: 5px;
+  }
 }
 
 .perk-img-result {
@@ -19,5 +24,11 @@
     background-position: center;
     background-size: 106%;
     margin-bottom: 20px;
+  }
+
+  @media (max-width: 600px) {
+    p {
+      font-size: 0.64rem;
+    }
   }
 }
