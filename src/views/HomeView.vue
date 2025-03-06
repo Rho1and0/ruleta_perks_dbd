@@ -151,7 +151,7 @@ const randPerk = (INDEX) => {
 const spin = () => {
   const finalInds = [randPerk(0), randPerk(1), randPerk(2), randPerk(3)]
 
-  console.log(positions.value, finalInds);
+  //console.log(positions.value, finalInds);
   intervalId.value = setInterval(() => {
       finalInds.forEach( (val, INDEX) => {
       positions.value[INDEX]++;
